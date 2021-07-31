@@ -1,7 +1,7 @@
 # TinyJoypad
-本機は 、 Daniel C 氏 が 開発した A ttiny85 で 動作する 携帯ゲーム 機 の 互換機です 。
-回路図、 ソフト ウェア など 詳細は 、 下記 の W eb ページ を 参照 ください 。
-Tinyjoypad.com
+本機は 、 Daniel C 氏 が 開発した A ttiny85 で 動作する 携帯ゲーム 機 の 互換機です。<BR>
+回路図、 ソフト ウェア など 詳細は 、 下記 の W eb ページ を 参照 ください 。<BR>
+Tinyjoypad.com<BR>
 https://www.tinyjoypad.com/
 
 特徴
