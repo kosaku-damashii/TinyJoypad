@@ -1,5 +1,5 @@
 # TinyJoypad
-![1](https://user-images.githubusercontent.com/62051355/127754806-14bfe55f-3224-4e4d-809f-82cf3f36aff4.png)
+![1](https://user-images.githubusercontent.com/62051355/127754806-14bfe55f-3224-4e4d-809f-82cf3f36aff4.png)<BR>
 本機は 、 Daniel C 氏 が 開発した A ttiny85 で 動作する 携帯ゲーム 機 の 互換機です。<BR>
 回路図、 ソフト ウェア など 詳細は 、 下記 の W eb ページ を 参照 ください 。<BR>
 Tinyjoypad.com<BR>
